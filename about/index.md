@@ -1,3 +1,3 @@
-# About This Site
-
-This site content was generated to show a possibility of how to create nice OER lessons.
+AlexanderMarkus&Ich sind eine Alternative-Punk Band aus Hannover (Ger), gegründet 2018. Der Sound verbindet "flowing" Drums mit einem straighten Bass, rhythmisch-melodiösen Gitarren und kritisch-reflexiven Texten.
+Nach einem Jahr im Proberaum, haben sie die "Legitimation des Alkoholismus I" aufgenommen. Die verschiedenen Tracks des Albums beschäftigen sich dabei mit unterschiedlichen uns wichtigen Themen. Zum Teil als einer persönlichen Auseinandersetzung mit der gesellschaftlichen Situation in Deutschland. Aber auch mit den allgemeinen, alltäglichen Problemen des Protagonisten, die jeder Mensch kennt. Die Musik lädt zum nachdenken und ebenso zum pogen und Bier trinken ein.
+Fuck Yeah! 
