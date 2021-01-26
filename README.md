@@ -13,7 +13,7 @@ alexandermarkusundich
   coming soon...
 </font>
 
-<img src="pictures/pressefotohochformatalexandermarkusundichphilippsonnack.jpg" height=400>
+<p><img src="pictures/pressefotohochformatalexandermarkusundichphilippsonnack.jpg" height=400></p>
 
 </font>
 </center>
