@@ -1,6 +1,6 @@
 # EPs
 Legitimation des Alkoholismus
 
-![](pictures/Hamster.jpg)
+![](../pictures/Hamster.jpg)
 
 
