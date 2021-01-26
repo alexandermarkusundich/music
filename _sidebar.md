@@ -5,7 +5,7 @@
 
 * [About](/about/index)
 
-* [Termine + Tickets]
+* [Termine](/termine/dates.md)
 
 * [Merch](/merch/cooleShirts.md)
 
