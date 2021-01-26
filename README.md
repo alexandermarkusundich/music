@@ -7,7 +7,7 @@ alexandermarkusundich
 
 -jetzt mit Internetseite
 
-<font size="3">
+<font size="4">
   Video zu 
   <B>Stefans Problem</B>
   coming soon...
