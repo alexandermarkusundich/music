@@ -1,5 +1,5 @@
 # EPs
 Legitimation des Alkoholismus
 <p>
-<img src="../pictures/Hamster.jpg" height=300>
+<img src="Hamster.jpg" height=300>
 </p>
