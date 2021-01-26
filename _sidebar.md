@@ -3,9 +3,11 @@
 
 * [HOME](./)
 
-* [Function Tests](/tests/index)
-
 * [About](/about/index)
 
-* [Quellen](/contact/index)
+* [Termine + Tickets]
+
+* [Merch]
+
+* [Kontakt](/contact/index)
 
