@@ -5,9 +5,9 @@
 
 * [About](/about/index)
 
-* [Termine + Tickets](/merch/cooleShirts.md
+* [Termine + Tickets]
 
-* [Merch]
+* [Merch](/merch/cooleShirts.md)
 
 * [Kontakt](/contact/index)
 
