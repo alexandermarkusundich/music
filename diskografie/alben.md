@@ -1,4 +1,4 @@
 # EPs
 Legitimation des Alkoholismus
 
-<img src="/pictures/Hamster.png" height=300>
+<img src="/pictures/Hamster.jpeg" height=300>
