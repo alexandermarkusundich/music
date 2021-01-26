@@ -1,5 +1,5 @@
 <center>
-<font size="8">
+<font size="1">
   
 <img src="pictures/dullisImFahrstuhl1.jpg" height=300>
 
