@@ -1,9 +1,8 @@
 <center>
 <font size="7">
   
-[//]: # <img src="pictures/dullisImFahrstuhl1.jpg">
+<img src="pictures/dullisImFahrstuhl1.jpg">
 
-![](https://storage.googleapis.com/leitmotiv-multi/regio-image-2020-02/1041539/banner/img_20191118_wa0005.jpg)
 
 alexandermarkusundich
 
