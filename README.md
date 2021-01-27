@@ -3,8 +3,7 @@
 <img src="pictures/dullisImFahrstuhl1.jpg">
 
 <font size="7">
-alexandermarkusundich
-  
+alexandermarkusundich \n  
 </font>
 
 <font size="6">
