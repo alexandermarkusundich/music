@@ -1,5 +1,5 @@
 <center>
-  
+<font color="black">  
 <img src="pictures/dullisImFahrstuhl1.jpg">
 
 <font size="7">
@@ -17,5 +17,5 @@ alexandermarkusundich
 </font>
 
 <p><img src="pictures/pressefotohochformatalexandermarkusundichphilippsonnack.jpg" height=400></p>
-
+</font>
 </center>
