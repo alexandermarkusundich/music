@@ -9,12 +9,12 @@ alexandermarkusundich
 <font size="6">
 -jetzt mit Internetseite
 </font>
-
+<p>
 <font size="4">
   Video zu 
   <B>Stefans Problem</B> coming soon...
 </font>
-
+  </p>
 <p><img src="pictures/pressefotohochformatalexandermarkusundichphilippsonnack.jpg" height=400></p>
 </font>
 </center>
