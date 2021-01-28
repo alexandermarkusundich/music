@@ -12,7 +12,7 @@ alexandermarkusundich
 <p>
 <font size="4">
   Video zu 
-  <B>Stefans Problem</B> coming soon...
+  <B>Stephans Problem</B> coming soon...
 </font>
   </p>
 <p><img src="pictures/pressefotohochformatalexandermarkusundichphilippsonnack.jpg" height=400></p>
