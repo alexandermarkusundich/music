@@ -2,11 +2,11 @@
 <font color="black">  
 <img src="pictures/dullisImFahrstuhl1.jpg">
 <p>
-<div class="flex-container"><div>
-<font size="7">
+<div class="flex-container">
+<div><font size="7">
 alexandermarkusundich 
-</font>
-  </div></div>
+</font></div>
+</div>
 </p>
 <font size="6">
 -jetzt mit Internetseite
